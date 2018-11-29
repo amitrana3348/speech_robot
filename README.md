@@ -4,12 +4,12 @@ Speech Based Robot
 For Speech Recognition Install as follows
 
 Firstly install pyAudio
-
 sudo apt-get install python-pyaudio
 
+Now Install flac
+sudo apt-get install flac
 
 now install Speech Recognition Library
-
 sudo pip install SpeechRecognition
 
 Example is here
